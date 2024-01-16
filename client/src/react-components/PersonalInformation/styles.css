@@ -1,0 +1,56 @@
+.personalInformation {
+    /* position: absolute; */
+    min-width: 70%;
+    left: 560px;
+    border-radius: 7.5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 40px;
+    padding-bottom: 0px;
+    background-color: #FDF6EC;
+}
+
+#user-image-form {
+    width: 455px;
+    border-radius: 7.5px;
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: #FDF6EC;
+}
+
+#user-upload-button-group {
+    display: flex;
+}
+
+.edit-button {
+    position: relative;
+    left: 372.5px;
+}
+
+#avatar {
+    margin: 20px;
+    position: relative;
+    left: 160px;
+}
+
+#user-input-image {
+    position: relative;
+    left: 160px;
+}
+
+.admin-button-group {
+    display: flex;
+}
+/* .complaint-button {
+    position: relative;
+    top: 350px;
+    left: 250px
+}*/
+
+.block-button {
+    position: relative;
+    margin-left: 79%;
+    margin-bottom: 20px;
+}

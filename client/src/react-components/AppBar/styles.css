@@ -1,0 +1,65 @@
+#appbar-logo{
+    width: 32%;
+    height: 100%;
+    float:left;
+    margin-left: 2%;
+    /* margin-top: 0.5%; */
+}
+
+#logo{
+    width: 100%;
+}
+
+#searchArea{
+    width: 28%;
+    float: left;
+    color: #555;
+    display: flex;
+    padding: 2px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+
+#searchBox{
+    border: none;
+    background: transparent;
+    margin: 0;
+    padding: 7px 8px;
+    font-size: 18px;
+    color: inherit;
+    border: 1px solid transparent;
+    border-radius: inherit;
+    width: 100%;
+
+}
+
+#searchButton{
+  width: 80px;
+  float: left;
+  height: 100%;
+  font-size: 16px;
+  background-color: #C65D7B;
+  border-radius: 5px;
+  border: transparent;
+  color: white;
+}
+
+.navigationMenu {
+    float: right;
+    width: 35%;
+    margin-top: 2%;
+}
+
+.navigationMenu nav ul li{
+    margin-left: 4%;
+    text-align: center;
+    display: inline-block;
+}
+
+.searchBoxLink {
+    text-decoration: none;
+};
+

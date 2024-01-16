@@ -1,0 +1,10 @@
+.searchBox {
+    text-decoration: none;
+};
+
+#searchButton {
+    background-color: #ffbeba;
+}
+#searchArea {
+    background-color: #e6e6e6; 
+}
